@@ -17,11 +17,13 @@ body {
 }
 .wrapper section img {
   width: 45%;
-  float: left;
+  // float: left;
 }
-.wrapper section img:nth-child( odd ) {
-  float: right;
-}
+
+// .wrapper section img:nth-child( even ) {
+//   float: right;
+// }
+
 .wrapper .nav {
   left: 36%;
 }
