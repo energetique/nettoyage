@@ -4,22 +4,26 @@
 @import 'jekyll-theme-leap-day';
 
 body {
-  background: url(..\images\9sky.JPG);
+  background: url(../images/9sky.JPG);
 }
 
 .wrapper {
   width: 60%;
-  .nav {
-    left: 37%;
-  }
-  img {
-    float: left;
-  }
-  img:nth-child(2n) {
-    float: right;
-  }
-}
 
+}
+.wrapper section {
+  width: 100%;
+}
+.wrapper section img {
+  width: 45%;
+  float: left;
+}
+.wrapper section img:nth-child( odd ) {
+  float: right;
+}
+.wrapper .nav {
+  left: 36%;
+}
 
 @media only screen and (max-width: 600px) {
   .wrapper {
