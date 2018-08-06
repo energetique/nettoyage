@@ -12,9 +12,11 @@ Page sur du nettoyage énergétique quotidien.
 
 > ** Ce qui échappe au regard...**
 
-<div class="block">
+
+
 
 ![ riviere ](assets\images\1riviere.JPG)
+
 
 Imaginez... Imaginez que vos pensées, vos émotions, vos souvenirs ressemblent à de petits
 papillons voletant dans le bocal de votre enveloppe énergétique. Imaginez maintenant que
@@ -23,11 +25,13 @@ soient autant de papillons qui s'accumulent dans le bocal au fil du temps.
 
 > **En prenant du recul pour vous regarder, à votre avis, que verriez-vous ?**
 
-</div>
 
-<div class="block">
+
+
+
 
 ![ feuilles ](assets\images\2feuilles.JPG)
+
 
 Nous ne sommes souvent pas conscient de ces petites empreintes qui tapissent notre bulle
 énergétique au quotidien, qui s'accumulent petit à petit, finissent par se compacter les une
@@ -37,13 +41,12 @@ visible sur le plan physique. En effet, les tensions, les douleurs, les petits
 dysfonctionnements, mais aussi le manque de bonhomie, d'entrain sont les premiers
 signes de cet engorgement et donc, de la nécessité de décharger le corps.
 
-</div>
 
 ## Tensions et acidification du corps
 
 Ces charges ont, en fait, une action directe sur le champ électromagnétique, il l'alourdissent d'ions positifs qui créent un déséquilibre par rapport aux ions négatifs. On sait maintenant que la surabondance d'ions positifs dans le champ magnétique humain est un facteur d'acidification du corps qui provoquent stress et fatigue, à l'encontre des ions négatifs ayant une action plutôt dynamisante et apaisante.
 
-<div class="block">
+
 
 ![rue](assets\images\3Rue.JPG)
 
@@ -55,7 +58,6 @@ posture, la respiration, le massage par exemple, mais aussi
 pratiquer la méditation, le chant, la musique, la rigolo-thérapie, etc. Pour ne citer que ces
 exemples.
 
-</div>
 
 > **la quotidienneté est une notion importante dans un processus de libération et
 d'équilibre.**
@@ -73,7 +75,7 @@ difficile à comprendre et à libérer quand ils se noient dans notre brouillard
 
 > **La clé, vers une action quotidienne.**
 
-<div class="block">
+
 
 ![ arbres ](assets\images\4arbres.JPG)
 
@@ -84,29 +86,26 @@ quotidienne sans passer par mon énergie, afin de ne pas épuiser mes ressources
 mis plusieurs années à comprendre comment réaliser cela et à pouvoir proposer un
 nettoyage énergétique sur photo satisfaisant et surtout journalier.
 
-</div>
 
 > **Une pilule Miracle ?**
 
-<div class="block">
+
 
 ![cave](assets\images\5cave.JPG)
 
 Ce nettoyage n'est pas la pilule miracle qui guérit tous les maux, celle-ci, à priori, n'existe pas. Nous avons tous un chemin à accomplir pour comprendre ce que "Mieux Vivre" représente pour nous. Certain le chercheront derrière la quête du bonheur, d'autres derrière la quête de la sagesse ou bien encore de la sécurité ou de la réussite ou du bon sens, de la simplicité... Mais, de toute façon, ce chemin de compréhension, personne ne peut le tracer à notre place.
 
-</div>
 
 ## Ce qu'il faut savoir
 
 Le nettoyage énergétique quotidien que je propose aujourd'hui permet de libérer un certains nombres de charges dont certaines appartiennent à l'héritage familial. Celui-ci dégage le corps de ces tensions inscrites à notre insu et devenues inutiles dans la compréhension globale de notre histoire. Il contribue ainsi à une meilleur clarté d'esprit en lui donnant la possibilité de prendre du recul sur les évènements, mais aussi l'incite à se positionner différemment tout en recentrant ses priorités. C'est un temps de respiration afin de mieux comprendre ce qui nous est donné de vivre.
 
-<div class="block">
+
 
 ![cascade](assets\images\6cascade.JPG)
 
 Il est intéressant à faire, par exemple, en complément d'un travail thérapeutique quel que soit la méthode choisie. Il peut être aussi un bon appui pour les personnes en fatigue chronique, en surmenage incessant qui ne savent plus par quel bout prendre les choses. C'est un bon allié pour des personnes qui travaillent avec du monde, sur des postes à responsabilité ou en représentation. C'est surtout une attention que l'on s'accorde afin de ne pas se surcharger, car quel que soit notre mode de vie ou notre activité, l'accumulation des petites tensions est le lot de chacun. Cela peut ainsi vous permettre de mieux gérer votre quotidien même si celui-ci est dense.
 
-</div>
 
 > **Ce nettoyage énergétique se fait sur une période de trois mois minimum.**
 
@@ -117,7 +116,7 @@ nous pouvons en atteindre d'autres.
 
 En plus de ce nettoyage journalier, je propose un protocole d'accompagnement avec des conseils pour travailler sur la vitalité. Celui-ci permettra au corps de mieux gérer les changements inhérents au processus de dégagement. En effet, quand un travail s'effectue sur l'enveloppe énergétique, il n'est pas rare d'avoir des fatigues de fin de journée.
 
-<div class="block">
+
 
 ![flower](assets\images\7fower.JPG)
 
@@ -127,7 +126,6 @@ dizaine de phrases peuvent suffire mais, à mon sens, cette démarche est import
 elle donne le recul nécessaire pour réaliser ce qui est en train de s'inscrire dans votre
 réalité. Cette étape n'est pas obligatoire, mais elle est recommandée.
 
-</div>
 
 > **Un temps de pause tel une respiration.**
 
@@ -135,7 +133,7 @@ Enfin, ce nettoyage journalier peut se faire sur une durée plus longue afin de 
 
 ## Prestations et Tarifs
 
-<div class="block">
+
 
 ![rock](assets\images\8rock.JPG)
 
@@ -148,7 +146,6 @@ Enfin, ce nettoyage journalier peut se faire sur une durée plus longue afin de 
 
 > **Réglement par chèque**
 
-</div>
 
 ## Contact
 
