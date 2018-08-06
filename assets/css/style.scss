@@ -2,3 +2,27 @@
 ---
 
 @import 'jekyll-theme-leap-day';
+
+body {
+  background: url(..\images\9sky.JPG);
+}
+
+.wrapper {
+  width: 60%;
+  .nav {
+    left: 37%;
+  }
+  img {
+    float: left;
+  }
+  img:nth-child(2n) {
+    float: right;
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  .wrapper {
+    width: 100%;
+  }
+}
