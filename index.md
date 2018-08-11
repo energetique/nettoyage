@@ -12,10 +12,10 @@ layout: default
   <img src="assets\images\1riviere.jpg">
 
 
-Imaginez... Imaginez que vos pensées, vos émotions, vos souvenirs ressemblent à de petits
+<p>Imaginez... Imaginez que vos pensées, vos émotions, vos souvenirs ressemblent à de petits
 papillons voletant dans le bocal de votre enveloppe énergétique. Imaginez maintenant que
 votre stress, vos paroles, mais aussi les paroles et les pensées des autres à votre égard
-soient autant de papillons qui s'accumulent dans le bocal au fil du temps.
+soient autant de papillons qui s'accumulent dans le bocal au fil du temps.</p>
 
 </div>
 
@@ -25,13 +25,13 @@ soient autant de papillons qui s'accumulent dans le bocal au fil du temps.
 <div class="right">
   <img src="assets\images\2feuilles.jpg">
 
-Nous ne sommes souvent pas conscient de ces petites empreintes qui tapissent notre bulle
+<p>Nous ne sommes souvent pas conscient de ces petites empreintes qui tapissent notre bulle
 énergétique au quotidien, qui s'accumulent petit à petit, finissent par se compacter les une
 aux autres, se cristalliser comme de petits cailloux. Ce sont ces cailloux d'ailleurs qui se
 déposent dans notre sac à dos et deviennent ainsi des charges qui peuvent se rendre
 visible sur le plan physique. En effet, les tensions, les douleurs, les petits
 dysfonctionnements, mais aussi le manque de bonhomie, d'entrain sont les premiers
-signes de cet engorgement et donc, de la nécessité de décharger le corps.
+signes de cet engorgement et donc, de la nécessité de décharger le corps.</p>
 
 </div>
 
@@ -40,15 +40,15 @@ signes de cet engorgement et donc, de la nécessité de décharger le corps.
 <div class="left">
 <img src="assets\images\3Rue.jpg">
 
-Ces charges ont, en fait, une action directe sur le champ électromagnétique, il l'alourdisse d'ions positifs qui créent un déséquilibre par rapport aux ions négatifs. On sait maintenant que la surabondance d'ions positifs dans le champ magnétique humain est un facteur d'acidification du corps qui provoquent stress et fatigue, à l'encontre des ions négatifs ayant une action plutôt dynamisante et apaisante.
+<p>Ces charges ont, en fait, une action directe sur le champ électromagnétique, il l'alourdisse d'ions positifs qui créent un déséquilibre par rapport aux ions négatifs. On sait maintenant que la surabondance d'ions positifs dans le champ magnétique humain est un facteur d'acidification du corps qui provoquent stress et fatigue, à l'encontre des ions négatifs ayant une action plutôt dynamisante et apaisante.</p>
 
-Il ne suffit pas d'en avoir conscience pour alléger l'enveloppe et par ricoché notre sac à
+<p>Il ne suffit pas d'en avoir conscience pour alléger l'enveloppe et par ricoché notre sac à
 dos. Une attention quotidienne est nécessaire afin de s'occuper de nous en touchant le
 corps par le biais de l'esprit ou bien l'esprit par le biais du corps. Il existe, en effet, multiple portes d'entrée qui conviennent plus ou moins à chacun en fonction de nos aspirations. On
 peut se tourner vers des pratiques corporelles basées sur le mouvement, le déplacement, la
 posture, la respiration, le massage par exemple, mais aussi
 pratiquer la méditation, le chant, la musique, la rigolo-thérapie, etc. Pour ne citer que ces
-exemples.
+exemples.</p>
 </div>
 
 
@@ -72,12 +72,8 @@ difficile à comprendre et à libérer quand ils se noient dans notre brouillard
   <img src="assets\images\4arbres.jpg">
 
 
-Cette évidence ainsi que le constat du thérapeute d'être toujours limité par cette
-problématique, m'a poussé à chercher une solution pour diminuer ce brouillard propre à
-chacun. L'intérêt, à mon sens, était de toucher un grand nombre de personnes de façon
-quotidienne sans passer par mon énergie, afin de ne pas épuiser mes ressources. J'ai donc
-mis plusieurs années à comprendre comment réaliser cela et à pouvoir proposer un
-nettoyage énergétique sur photo satisfaisant et surtout journalier.
+<p>Cette évidence ainsi que le constat du thérapeute d'être toujours limité par cette
+problématique, m'a poussé à chercher une solution pour diminuer ce brouillard propre à chacun. L'intérêt, à mon sens, était de toucher un grand nombre de personnes de façon quotidienne sans passer par mon énergie, afin de ne pas épuiser mes ressources. J'ai donc mis plusieurs années à comprendre comment réaliser cela et à pouvoir proposer un nettoyage énergétique sur photo satisfaisant et surtout journalier.</p>
 </div>
 
 
@@ -86,7 +82,7 @@ nettoyage énergétique sur photo satisfaisant et surtout journalier.
 <div class="left">
   <img src="assets\images\5cave.jpg">
 
-Ce nettoyage n'est pas la pilule miracle qui guérit tous les maux, celle-ci, à priori, n'existe pas. Nous avons tous un chemin à accomplir pour comprendre ce que "Mieux Vivre" représente pour nous. Certain le chercheront derrière la quête du bonheur, d'autres derrière la quête de la sagesse ou bien encore de la sécurité ou de la réussite ou du bon sens, de la simplicité... Mais, de toute façon, ce chemin de compréhension, personne ne peut le tracer à notre place.
+<p>Ce nettoyage n'est pas la pilule miracle qui guérit tous les maux, celle-ci, à priori, n'existe pas. Nous avons tous un chemin à accomplir pour comprendre ce que "Mieux Vivre" représente pour nous. Certain le chercheront derrière la quête du bonheur, d'autres derrière la quête de la sagesse ou bien encore de la sécurité ou de la réussite ou du bon sens, de la simplicité... Mais, de toute façon, ce chemin de compréhension, personne ne peut le tracer à notre place.</p>
 </div>
 
 
@@ -95,10 +91,10 @@ Ce nettoyage n'est pas la pilule miracle qui guérit tous les maux, celle-ci, à
 <div class="right">
 <img src="assets\images\6cascade.jpg">
 
-Le nettoyage énergétique quotidien que je propose aujourd'hui permet de libérer un certains nombres de charges dont certaines appartiennent à l'héritage familial. Celui-ci dégage le corps de ces tensions inscrites à notre insu et devenues inutiles dans la compréhension globale de notre histoire. Il contribue ainsi à une meilleur clarté d'esprit en lui donnant la possibilité de prendre du recul sur les évènements, mais aussi l'incite à se positionner différemment tout en recentrant ses priorités. C'est un temps de respiration afin de mieux comprendre ce qui nous est donné de vivre.
+<p>Le nettoyage énergétique quotidien que je propose aujourd'hui permet de libérer un certains nombres de charges dont certaines appartiennent à l'héritage familial. Celui-ci dégage le corps de ces tensions inscrites à notre insu et devenues inutiles dans la compréhension globale de notre histoire. Il contribue ainsi à une meilleur clarté d'esprit en lui donnant la possibilité de prendre du recul sur les évènements, mais aussi l'incite à se positionner différemment tout en recentrant ses priorités. C'est un temps de respiration afin de mieux comprendre ce qui nous est donné de vivre.</p>
 
 
-Il est intéressant à faire, par exemple, en complément d'un travail thérapeutique quel que soit la méthode choisie. Il peut être aussi un bon appui pour les personnes en fatigue chronique, en surmenage incessant qui ne savent plus par quel bout prendre les choses. C'est un bon allié pour des personnes qui travaillent avec du monde, sur des postes à responsabilité ou en représentation. C'est surtout une attention que l'on s'accorde afin de ne pas se surcharger, car quel que soit notre mode de vie ou notre activité, l'accumulation des petites tensions est le lot de chacun. Cela peut ainsi vous permettre de mieux gérer votre quotidien même si celui-ci est dense.
+<p>Il est intéressant à faire, par exemple, en complément d'un travail thérapeutique quel que soit la méthode choisie. Il peut être aussi un bon appui pour les personnes en fatigue chronique, en surmenage incessant qui ne savent plus par quel bout prendre les choses. C'est un bon allié pour des personnes qui travaillent avec du monde, sur des postes à responsabilité ou en représentation. C'est surtout une attention que l'on s'accorde afin de ne pas se surcharger, car quel que soit notre mode de vie ou notre activité, l'accumulation des petites tensions est le lot de chacun. Cela peut ainsi vous permettre de mieux gérer votre quotidien même si celui-ci est dense.</p>
 </div>
 
 
@@ -114,11 +110,7 @@ En plus de ce nettoyage journalier, je propose un protocole d'accompagnement ave
 <div class="left">
   <img src="assets\images\7fower.jpg">
 
-Durant ces trois mois, je vous demanderais aussi un retour écrit, afin d'avoir une image
-plus précise de ce qui se dessine pour vous. Ce retour n'a pas besoin d'être étoffé, une
-dizaine de phrases peuvent suffire mais, à mon sens, cette démarche est importante, car
-elle donne le recul nécessaire pour réaliser ce qui est en train de s'inscrire dans votre
-réalité. Cette étape n'est pas obligatoire, mais elle est recommandée.
+<p>Durant ces trois mois, je vous demanderais aussi un retour écrit, afin d'avoir une image plus précise de ce qui se dessine pour vous. Ce retour n'a pas besoin d'être étoffé, une dizaine de phrases peuvent suffire mais, à mon sens, cette démarche est importante, car elle donne le recul nécessaire pour réaliser ce qui est en train de s'inscrire dans votre réalité. Cette étape n'est pas obligatoire, mais elle est recommandée.</p>
 </div>
 
 
@@ -135,11 +127,11 @@ Enfin, ce nettoyage journalier peut se faire sur une durée plus longue afin de 
 
 
 | Durant les 3 premiers mois | Pour une prestation à l'année |
- |
-| Adulte 70€/mois | 1 Adulte 20€/mois |
-| Enfant (jusqu'à 20 ans) 35€/mois | 1 Couple 30€/mois |
-| 1 Couple avec enfants 35€/mois |
- | 1 Adulte avec enfants 25€/mois |
+| --- | --- |
+| Adulte 70€/mois | Enfant (jusqu'à 20 ans) 35€/mois |
+|  1 Adulte 20€/mois | 1 Couple 30€/mois |
+| --- | 1 Couple avec enfants 35€/mois |
+| --- | 1 Adulte avec enfants 25€/mois |
 
 > **Réglement par chèque**
 

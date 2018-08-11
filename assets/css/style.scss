@@ -39,6 +39,9 @@ h2 {
   background: rgb(239, 227, 216);
   width: 94.5%;
 }
+.main p {
+  font-size: 1.5em;
+}
 section {
   box-shadow: none;
   border: none;
@@ -50,7 +53,7 @@ section {
   overflow: auto;
 }
 .left img, .right img {
-  width: 45%;
+  width: 35%;
 }
 
 .left img {
