@@ -17,10 +17,9 @@ papillons voletant dans le bocal de votre enveloppe énergétique. Imaginez main
 votre stress, vos paroles, mais aussi les paroles et les pensées des autres à votre égard
 soient autant de papillons qui s'accumulent dans le bocal au fil du temps.
 
+---
+
 > **En prenant du recul pour vous regarder, à votre avis, que verriez-vous ?**
-
-
-
 
 
 <div class="pics">
@@ -39,12 +38,11 @@ signes de cet engorgement et donc, de la nécessité de décharger le corps.
 
 ## Tensions et acidification du corps
 
-Ces charges ont, en fait, une action directe sur le champ électromagnétique, il l'alourdissent d'ions positifs qui créent un déséquilibre par rapport aux ions négatifs. On sait maintenant que la surabondance d'ions positifs dans le champ magnétique humain est un facteur d'acidification du corps qui provoquent stress et fatigue, à l'encontre des ions négatifs ayant une action plutôt dynamisante et apaisante.
-
 <div class="pics">
-  <img src="assets\images\3Rue.jpg">
+<img src="assets\images\3Rue.jpg">
 </div>
 
+Ces charges ont, en fait, une action directe sur le champ électromagnétique, il l'alourdissent d'ions positifs qui créent un déséquilibre par rapport aux ions négatifs. On sait maintenant que la surabondance d'ions positifs dans le champ magnétique humain est un facteur d'acidification du corps qui provoquent stress et fatigue, à l'encontre des ions négatifs ayant une action plutôt dynamisante et apaisante.
 
 Il ne suffit pas d'en avoir conscience pour alléger l'enveloppe et par ricoché notre sac à
 dos. Une attention quotidienne est nécessaire afin de s'occuper de nous en touchant le
@@ -58,6 +56,7 @@ exemples.
 > **la quotidienneté est une notion importante dans un processus de libération et
 d'équilibre.**
 
+---
 
 ## Qui sommes nous ?
 
@@ -83,6 +82,7 @@ quotidienne sans passer par mon énergie, afin de ne pas épuiser mes ressources
 mis plusieurs années à comprendre comment réaliser cela et à pouvoir proposer un
 nettoyage énergétique sur photo satisfaisant et surtout journalier.
 
+---
 
 > **Une pilule Miracle ?**
 
@@ -92,17 +92,20 @@ nettoyage énergétique sur photo satisfaisant et surtout journalier.
 
 Ce nettoyage n'est pas la pilule miracle qui guérit tous les maux, celle-ci, à priori, n'existe pas. Nous avons tous un chemin à accomplir pour comprendre ce que "Mieux Vivre" représente pour nous. Certain le chercheront derrière la quête du bonheur, d'autres derrière la quête de la sagesse ou bien encore de la sécurité ou de la réussite ou du bon sens, de la simplicité... Mais, de toute façon, ce chemin de compréhension, personne ne peut le tracer à notre place.
 
+---
 
 ## Ce qu'il faut savoir
 
+<div class="pics">
+<img src="assets\images\6cascade.jpg">
+</div>
+
 Le nettoyage énergétique quotidien que je propose aujourd'hui permet de libérer un certains nombres de charges dont certaines appartiennent à l'héritage familial. Celui-ci dégage le corps de ces tensions inscrites à notre insu et devenues inutiles dans la compréhension globale de notre histoire. Il contribue ainsi à une meilleur clarté d'esprit en lui donnant la possibilité de prendre du recul sur les évènements, mais aussi l'incite à se positionner différemment tout en recentrant ses priorités. C'est un temps de respiration afin de mieux comprendre ce qui nous est donné de vivre.
 
-<div class="pics">
-  <img src="assets\images\6cascade.jpg">
-</div>
 
 Il est intéressant à faire, par exemple, en complément d'un travail thérapeutique quel que soit la méthode choisie. Il peut être aussi un bon appui pour les personnes en fatigue chronique, en surmenage incessant qui ne savent plus par quel bout prendre les choses. C'est un bon allié pour des personnes qui travaillent avec du monde, sur des postes à responsabilité ou en représentation. C'est surtout une attention que l'on s'accorde afin de ne pas se surcharger, car quel que soit notre mode de vie ou notre activité, l'accumulation des petites tensions est le lot de chacun. Cela peut ainsi vous permettre de mieux gérer votre quotidien même si celui-ci est dense.
 
+---
 
 > **Ce nettoyage énergétique se fait sur une période de trois mois minimum.**
 
@@ -126,11 +129,13 @@ réalité. Cette étape n'est pas obligatoire, mais elle est recommandée.
 
 > **Un temps de pause tel une respiration.**
 
+</br>
+
 Enfin, ce nettoyage journalier peut se faire sur une durée plus longue afin de continuer à éliminer des couches anciennes et à ne pas accumuler au quotidien des informations inutiles surtout dans des périodes de stress important, de conflit ou de fatigue chronique.
 
 ## Prestations et Tarifs
 
-<div class="pics">
+<div class="full">
   <img src="assets\images\8rock.jpg">
 </div>
 

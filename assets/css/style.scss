@@ -29,6 +29,9 @@ header p {
 	color: #5d4b6e;
 	font-size: 26px;
 }
+h2 {
+  margin-top: 5vh;
+  0}
 .wrapper {
   width: 60%;
 }
@@ -52,6 +55,9 @@ section {
 .main .pics:nth-child(odd) img {
   float: right;
   padding: 0 0 15px 15px;
+}
+.full img {
+  width: 100%;
 }
 nav {
   left: 1vw;
