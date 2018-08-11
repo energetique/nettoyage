@@ -46,6 +46,9 @@ section {
 .main h1, .main h2, .main h3, .main h4, .main h5, .main h6 {
   color: #5d4b6e;
 }
+.left, .right {
+  overflow: auto;
+}
 .left img, .right img {
   width: 45%;
 }
