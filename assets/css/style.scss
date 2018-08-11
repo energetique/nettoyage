@@ -40,11 +40,16 @@ section {
   box-shadow: none;
   border: none;
 }
-.main img {
-  width: 45%;
-}
 .main h1, .main h2, .main h3, .main h4, .main h5, .main h6 {
   color: #5d4b6e;
+}
+.pics img {
+  width: 45%;
+  float: left;
+}
+
+.main .pics:nth-child(even) {
+  float: right;
 }
 nav {
   left: 1vw;
