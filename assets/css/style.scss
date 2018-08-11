@@ -46,16 +46,11 @@ section {
 .main h1, .main h2, .main h3, .main h4, .main h5, .main h6 {
   color: #5d4b6e;
 }
-.pics img {
+.left img, .right img {
   width: 45%;
-  float: left;
   padding: 0 15px 15px 0;
 }
 
-.main .pics:nth-child(odd) img {
-  float: right;
-  padding: 0 0 15px 15px;
-}
 .left img {
   float: left;
 }
