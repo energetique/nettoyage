@@ -46,10 +46,12 @@ section {
 .pics img {
   width: 45%;
   float: left;
+  padding: 0 15px 15px 0;
 }
 
-.main .pics:nth-child(even) {
+.main .pics:nth-child(odd) img {
   float: right;
+  padding: 0 0 15px 15px;
 }
 nav {
   left: 1vw;
