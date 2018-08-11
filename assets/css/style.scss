@@ -12,7 +12,7 @@
  */
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Volkhov', serif;
   background-attachment: fixed;
   background-image: url(../images/9sky.JPG);
   background-size: cover;
@@ -39,6 +39,7 @@ header h1 {
 }
 nav {
   left: 1vw;
+  margin-left: 0;
 }
 nav ul li.tag-h1 a {
   color: #fff;
