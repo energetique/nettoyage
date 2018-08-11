@@ -8,26 +8,35 @@ body {
   background-image: url(../images/9sky.JPG);
   background-size: cover;
 }
-
+header {
+  background-color: #efe3d8;
+}
+header h1 {
+  text-shadow: none;
+  color: #5d4b6e;
+}
 .wrapper {
   width: 60%;
 }
-.wrapper section {
+.main {
+  background: rgb(239, 227, 216);
   width: 94.5%;
 }
-.wrapper section img {
+.main img {
   width: 45%;
-  // float: left;
 }
-
-// .wrapper section img:nth-child( even ) {
-//   float: right;
-// }
-
+.main h1, .main h2, .main h3, .main h4, .main h5, .main h6 {
+  color: #5d4b6e;
+}
 nav {
-  left: 36%;
+  left: 1vw;
 }
-
+nav ul li.tag-h1 a {
+  color: #fff;
+}
+nav ul a {
+  color: #f2ddc9;
+}
 @media only screen and (max-width: 600px) {
   .wrapper {
     width: 100%;
@@ -39,5 +48,7 @@ nav {
   height: 100%;
   background: #8A2387;
   background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);
-  background: linear-gradient(to right, #F27121, #E94057, #8A2387);
+  background: linear-gradient(to top, #F27121, #E94057, #8A2387);
+  opacity: 0.7;
+  top: 0;
 }

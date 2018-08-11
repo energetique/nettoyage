@@ -4,15 +4,9 @@ layout: default
 
 # Nettoyage Énergétique Journalier
 
-Page sur du nettoyage énergétique quotidien.
-
-# Le Saut de l'Ours
-
 ## Perturbateurs énergétiques
 
 > ** Ce qui échappe au regard...**
-
-
 
 
 ![ riviere ](assets\images\1riviere.JPG)
