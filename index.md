@@ -1,6 +1,5 @@
----
+
 layout: default
----
 
 # Nettoyage Énergétique Journalier
 
@@ -8,7 +7,7 @@ layout: default
 
 > ** Ce qui échappe au regard...**
 
-<div class="pics">
+<div class="left">
   <img src="assets\images\1riviere.jpg">
 </div>
 
@@ -17,12 +16,11 @@ papillons voletant dans le bocal de votre enveloppe énergétique. Imaginez main
 votre stress, vos paroles, mais aussi les paroles et les pensées des autres à votre égard
 soient autant de papillons qui s'accumulent dans le bocal au fil du temps.
 
----
 
 > **En prenant du recul pour vous regarder, à votre avis, que verriez-vous ?**
 
 
-<div class="pics">
+<div class="right">
   <img src="assets\images\2feuilles.jpg">
 </div>
 
@@ -38,7 +36,7 @@ signes de cet engorgement et donc, de la nécessité de décharger le corps.
 
 ## Tensions et acidification du corps
 
-<div class="pics">
+<div class="left">
 <img src="assets\images\3Rue.jpg">
 </div>
 
@@ -56,7 +54,6 @@ exemples.
 > **la quotidienneté est une notion importante dans un processus de libération et
 d'équilibre.**
 
----
 
 ## Qui sommes nous ?
 
@@ -70,7 +67,7 @@ difficile à comprendre et à libérer quand ils se noient dans notre brouillard
 
 > **La clé, vers une action quotidienne.**
 
-<div class="pics">
+<div class="right">
   <img src="assets\images\4arbres.jpg">
 </div>
 
@@ -82,21 +79,19 @@ quotidienne sans passer par mon énergie, afin de ne pas épuiser mes ressources
 mis plusieurs années à comprendre comment réaliser cela et à pouvoir proposer un
 nettoyage énergétique sur photo satisfaisant et surtout journalier.
 
----
 
 > **Une pilule Miracle ?**
 
-<div class="pics">
+<div class="left">
   <img src="assets\images\5cave.jpg">
 </div>
 
 Ce nettoyage n'est pas la pilule miracle qui guérit tous les maux, celle-ci, à priori, n'existe pas. Nous avons tous un chemin à accomplir pour comprendre ce que "Mieux Vivre" représente pour nous. Certain le chercheront derrière la quête du bonheur, d'autres derrière la quête de la sagesse ou bien encore de la sécurité ou de la réussite ou du bon sens, de la simplicité... Mais, de toute façon, ce chemin de compréhension, personne ne peut le tracer à notre place.
 
----
 
 ## Ce qu'il faut savoir
 
-<div class="pics">
+<div class="right">
 <img src="assets\images\6cascade.jpg">
 </div>
 
@@ -105,7 +100,6 @@ Le nettoyage énergétique quotidien que je propose aujourd'hui permet de libér
 
 Il est intéressant à faire, par exemple, en complément d'un travail thérapeutique quel que soit la méthode choisie. Il peut être aussi un bon appui pour les personnes en fatigue chronique, en surmenage incessant qui ne savent plus par quel bout prendre les choses. C'est un bon allié pour des personnes qui travaillent avec du monde, sur des postes à responsabilité ou en représentation. C'est surtout une attention que l'on s'accorde afin de ne pas se surcharger, car quel que soit notre mode de vie ou notre activité, l'accumulation des petites tensions est le lot de chacun. Cela peut ainsi vous permettre de mieux gérer votre quotidien même si celui-ci est dense.
 
----
 
 > **Ce nettoyage énergétique se fait sur une période de trois mois minimum.**
 
@@ -116,7 +110,7 @@ nous pouvons en atteindre d'autres.
 
 En plus de ce nettoyage journalier, je propose un protocole d'accompagnement avec des conseils pour travailler sur la vitalité. Celui-ci permettra au corps de mieux gérer les changements inhérents au processus de dégagement. En effet, quand un travail s'effectue sur l'enveloppe énergétique, il n'est pas rare d'avoir des fatigues de fin de journée.
 
-<div class="pics">
+<div class="left">
   <img src="assets\images\7fower.jpg">
 </div>
 
@@ -139,12 +133,14 @@ Enfin, ce nettoyage journalier peut se faire sur une durée plus longue afin de 
   <img src="assets\images\8rock.jpg">
 </div>
 
+</br>
+
 | Durant les 3 premiers mois | Pour une prestation à l'année |
-|--- |---|
+ |
 | Adulte 70€/mois | 1 Adulte 20€/mois |
 | Enfant (jusqu'à 20 ans) 35€/mois | 1 Couple 30€/mois |
-|---| 1 Couple avec enfants 35€/mois |
-|--- | 1 Adulte avec enfants 25€/mois |
+| 1 Couple avec enfants 35€/mois |
+ | 1 Adulte avec enfants 25€/mois |
 
 > **Réglement par chèque**
 
