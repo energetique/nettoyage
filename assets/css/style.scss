@@ -18,11 +18,16 @@ body {
   background-size: cover;
 }
 header {
-  background: #efe3d8;
+  background: #FC935A;
 }
 header h1 {
+  font: 40px/48px 'Volkhov', serif;
   text-shadow: none;
-  color: #5d4b6e;
+  color: #6F4128;
+}
+header p {
+	color: #5d4b6e;
+	font-size: 26px;
 }
 .wrapper {
   width: 60%;
@@ -30,6 +35,10 @@ header h1 {
 .main {
   background: rgb(239, 227, 216);
   width: 94.5%;
+}
+section {
+  box-shadow: none;
+  border: none;
 }
 .main img {
   width: 45%;
@@ -57,8 +66,9 @@ nav ul a {
   width: 100%;
   height: 100%;
   background: #8A2387;
-  background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);
-  background: linear-gradient(to top, #F27121, #E94057, #8A2387);
+  background: -webkit-linear-gradient(to bottom, #6F4128, #FC935A);
+  background: linear-gradient(to bottom, #6F4128, #FC935A);
   opacity: 0.7;
   top: 0;
+  mix-blend-mode: color;
 }
