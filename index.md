@@ -5,24 +5,25 @@ layout: default
 
 ## Perturbateurs énergétiques
 
-> ** Ce qui échappe au regard...**
+> **Ce qui échappe au regard...**
 
 <div class="left">
   <img src="assets\images\1riviere.jpg">
-</div>
+
 
 Imaginez... Imaginez que vos pensées, vos émotions, vos souvenirs ressemblent à de petits
 papillons voletant dans le bocal de votre enveloppe énergétique. Imaginez maintenant que
 votre stress, vos paroles, mais aussi les paroles et les pensées des autres à votre égard
 soient autant de papillons qui s'accumulent dans le bocal au fil du temps.
 
+</div>
 
 > **En prenant du recul pour vous regarder, à votre avis, que verriez-vous ?**
 
 
 <div class="right">
   <img src="assets\images\2feuilles.jpg">
-</div>
+
 
 
 Nous ne sommes souvent pas conscient de ces petites empreintes qui tapissent notre bulle
@@ -33,6 +34,7 @@ visible sur le plan physique. En effet, les tensions, les douleurs, les petits
 dysfonctionnements, mais aussi le manque de bonhomie, d'entrain sont les premiers
 signes de cet engorgement et donc, de la nécessité de décharger le corps.
 
+</div>
 
 ## Tensions et acidification du corps
 
@@ -40,7 +42,7 @@ signes de cet engorgement et donc, de la nécessité de décharger le corps.
 <img src="assets\images\3Rue.jpg">
 </div>
 
-Ces charges ont, en fait, une action directe sur le champ électromagnétique, il l'alourdissent d'ions positifs qui créent un déséquilibre par rapport aux ions négatifs. On sait maintenant que la surabondance d'ions positifs dans le champ magnétique humain est un facteur d'acidification du corps qui provoquent stress et fatigue, à l'encontre des ions négatifs ayant une action plutôt dynamisante et apaisante.
+Ces charges ont, en fait, une action directe sur le champ électromagnétique, il l'alourdisse d'ions positifs qui créent un déséquilibre par rapport aux ions négatifs. On sait maintenant que la surabondance d'ions positifs dans le champ magnétique humain est un facteur d'acidification du corps qui provoquent stress et fatigue, à l'encontre des ions négatifs ayant une action plutôt dynamisante et apaisante.
 
 Il ne suffit pas d'en avoir conscience pour alléger l'enveloppe et par ricoché notre sac à
 dos. Une attention quotidienne est nécessaire afin de s'occuper de nous en touchant le
@@ -123,7 +125,6 @@ réalité. Cette étape n'est pas obligatoire, mais elle est recommandée.
 
 > **Un temps de pause tel une respiration.**
 
-</br>
 
 Enfin, ce nettoyage journalier peut se faire sur une durée plus longue afin de continuer à éliminer des couches anciennes et à ne pas accumuler au quotidien des informations inutiles surtout dans des périodes de stress important, de conflit ou de fatigue chronique.
 
@@ -133,7 +134,6 @@ Enfin, ce nettoyage journalier peut se faire sur une durée plus longue afin de 
   <img src="assets\images\8rock.jpg">
 </div>
 
-</br>
 
 | Durant les 3 premiers mois | Pour une prestation à l'année |
  |
