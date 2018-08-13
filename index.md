@@ -58,19 +58,18 @@ d'équilibre.**
 
 ## Qui sommes nous ?
 
-Praticienne de "Shiatsu" et de "Santé par le Toucher" de John Thie, je me suis rendue
+<div class="right">
+<img src="assets\images\4arbres.jpg">
+
+<p>Praticienne de "Shiatsu" et de "Santé par le Toucher" de John Thie, je me suis rendue
 compte au fil de mon expérience que le plus gros de notre travail d'aide à autrui, était
 focalisé sur la nécessité de décharger l'accumulation journalière des tensions avant de
 pouvoir atteindre des zones de travail et de compréhension plus subtil de l'être. En effet,
 les traumatismes inscrits dans notre banque de données, notre héritage familial ainsi que
 nos programmations personnelles dues par exemple à des souvenirs refoulés, sont plus
-difficile à comprendre et à libérer quand ils se noient dans notre brouillard quotidien.
+difficile à comprendre et à libérer quand ils se noient dans notre brouillard quotidien.</p>
 
 > **La clé, vers une action quotidienne.**
-
-<div class="right">
-  <img src="assets\images\4arbres.jpg">
-
 
 <p>Cette évidence ainsi que le constat du thérapeute d'être toujours limité par cette
 problématique, m'a poussé à chercher une solution pour diminuer ce brouillard propre à chacun. L'intérêt, à mon sens, était de toucher un grand nombre de personnes de façon quotidienne sans passer par mon énergie, afin de ne pas épuiser mes ressources. J'ai donc mis plusieurs années à comprendre comment réaliser cela et à pouvoir proposer un nettoyage énergétique sur photo satisfaisant et surtout journalier.</p>
@@ -100,15 +99,16 @@ problématique, m'a poussé à chercher une solution pour diminuer ce brouillard
 
 > **Ce nettoyage énergétique se fait sur une période de trois mois minimum.**
 
-C'est le temps nécessaire pour libérer certaines charges relativement anciennes. Car nous
+<div class="left">
+<img src="assets\images\7fower.jpg">
+
+<p>C'est le temps nécessaire pour libérer certaines charges relativement anciennes. Car nous
 sommes un peu à l'image des oignons qui ont besoin d'être peler pour atteindre leur cœur.
 En énergétique, nous fonctionnons par couche et c'est en nettoyant certaines couches que
-nous pouvons en atteindre d'autres.
+nous pouvons en atteindre d'autres.</p>
 
-En plus de ce nettoyage journalier, je propose un protocole d'accompagnement avec des conseils pour travailler sur la vitalité. Celui-ci permettra au corps de mieux gérer les changements inhérents au processus de dégagement. En effet, quand un travail s'effectue sur l'enveloppe énergétique, il n'est pas rare d'avoir des fatigues de fin de journée.
+<p>En plus de ce nettoyage journalier, je propose un protocole d'accompagnement avec des conseils pour travailler sur la vitalité. Celui-ci permettra au corps de mieux gérer les changements inhérents au processus de dégagement. En effet, quand un travail s'effectue sur l'enveloppe énergétique, il n'est pas rare d'avoir des fatigues de fin de journée.</p>
 
-<div class="left">
-  <img src="assets\images\7fower.jpg">
 
 <p>Durant ces trois mois, je vous demanderais aussi un retour écrit, afin d'avoir une image plus précise de ce qui se dessine pour vous. Ce retour n'a pas besoin d'être étoffé, une dizaine de phrases peuvent suffire mais, à mon sens, cette démarche est importante, car elle donne le recul nécessaire pour réaliser ce qui est en train de s'inscrire dans votre réalité. Cette étape n'est pas obligatoire, mais elle est recommandée.</p>
 </div>
@@ -138,7 +138,7 @@ Enfin, ce nettoyage journalier peut se faire sur une durée plus longue afin de 
 
 ## Contact
 
- Ana Loube : <a href="mailto:lesautde.lours@laposte.net" target="_blank" rel="noopener">lesautde.lours@laposte.net</a>
+ <p class="contac">Ana Loube : <a href="mailto:lesautde.lours@laposte.net" target="_blank" rel="noopener">lesautde.lours@laposte.net</a></p>
 
 **Prenez contact par e-mail** *afin de me faire parvenir votre demande en précisant
 succinctement vos raisons et vos interrogations. Cela me permettra de vous donnez des

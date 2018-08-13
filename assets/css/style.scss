@@ -16,6 +16,7 @@ body {
   background-attachment: fixed;
   background-image: url(../images/9sky.jpg);
   background-size: cover;
+  text-align: justify;
 }
 header {
   background: #EFE3D8;
@@ -25,15 +26,38 @@ header h1 {
   text-shadow: none;
   color: #3161B3;
 }
+h1#nettoyage-nergtique-journalier {
+  text-align: center;
+  margin: 16px;
+}
 header p {
 	color: #3161B3;
-	font-size: 26px;
+	font-size: 20px;
+}
+nav {
+  font-family: 'Lato', sans-serif;
+  left: 4vw;
+  margin-left: 0;
+}
+nav ul li.tag-h1 a {
+  color: #fff;
+}
+nav ul a {
+  color: #f2ddc9;
+}
+section {
+  box-shadow: none;
+  border: none;
 }
 h2 {
   margin-top: 5vh;
 }
+.contac {
+  text-align: center;
+}
 .wrapper {
   width: 60%;
+  text-align: justify;
 }
 .main {
   background: rgb(239, 227, 216);
@@ -42,12 +66,9 @@ h2 {
 .main p {
   font-size: 1.2em;
 }
-section {
-  box-shadow: none;
-  border: none;
-}
 .main h1, .main h2, .main h3, .main h4, .main h5, .main h6 {
   color: #3161B3;
+  margin-bottom: 35px;
 }
 .left, .right {
   overflow: auto;
@@ -65,22 +86,9 @@ section {
   float: right;
 }
 .full img {
-  width: 100%;
-}
-nav {
-  left: 4vw;
-  margin-left: 0;
-}
-nav ul li.tag-h1 a {
-  color: #fff;
-}
-nav ul a {
-  color: #f2ddc9;
-}
-@media only screen and (max-width: 600px) {
-  .wrapper {
-    width: 100%;
-  }
+  display: block;
+  margin:auto;
+  width: 50%;
 }
 .gradient {
   position: fixed;
@@ -92,4 +100,9 @@ nav ul a {
   opacity: 0.7;
   top: 0;
   mix-blend-mode: color;
+}
+@media only screen and (max-width: 600px) {
+  .wrapper {
+    width: 100%;
+  }
 }
