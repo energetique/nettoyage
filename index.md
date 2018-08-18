@@ -30,7 +30,7 @@ layout: default
 <div class="left">
 <img src="assets\images\3Rue.jpg">
 
-<p>Ces charges ont, en fait, une action directe sur le champ électromagnétique. Elles l'alourdissent d'ions positifs, ce qui créent un déséquilibre par rapport aux ions négatifs. On sait, maintenant, que la surabondance d'ions positifs dans le champ magnétique humain est un facteur d'acidification du corps qui provoquent stress, fatigue et pathologies diverses, à l'encontre des ions négatifs ayant une action plutôt dynamisante et apaisante. (A lire : *"Terrain acidifié"* de Jacques Fontaine, édition Jouvence)</p>
+<p>Ces charges ont, en fait, une action directe sur le champ électromagnétique. Elles l'alourdissent d'ions positifs, ce qui créent un déséquilibre par rapport aux ions négatifs. On sait, maintenant, que la surabondance d'ions positifs dans le champ magnétique humain est un facteur d'acidification du corps qui provoquent stress, fatigue et pathologies diverses, à l'encontre des ions négatifs ayant une action plutôt dynamisante et apaisante. (A lire : *Terrain acidifié* de Jacques Fontaine, édition Jouvence)</p>
 
 <p>Il ne suffit pas d'en avoir conscience pour alléger l'enveloppe et par ricochets notre sac à dos. Une attention quotidienne est nécessaire afin de s'occuper de nous, en touchant le corps par le biais de l'esprit ou bien l'esprit par le biais du corps. Il existe, en effet, multiples portes d'entrée qui conviennent plus ou moins à chacun en fonction de nos aspirations. On peut se tourner vers des pratiques corporelles basées sur le mouvement, le déplacement, la posture, la respiration, le massage par exemple, mais aussi pratiquer la méditation, le chant, la musique, la rigolo-thérapie, etc. Pour ne citer que ces
 exemples.</p>
