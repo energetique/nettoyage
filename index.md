@@ -111,7 +111,7 @@ J'ai besoin :
 
 | Durant les 3 premiers mois | Pour une prestation à l'année |
 | --- | --- |
-| Adulte 70€/mois | Enfant (jusqu'à 20 ans) 35€/mois |
+| Adulte 75€/mois | Enfant (jusqu'à 20 ans) 35€/mois |
 |  1 Adulte 20€/mois | 1 Couple 30€/mois |
 | --- | 1 Couple avec enfants 35€/mois |
 | --- | 1 Adulte avec enfants 25€/mois |
