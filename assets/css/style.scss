@@ -14,9 +14,10 @@
 body {
   font-family: 'Volkhov', serif;
   background-attachment: fixed;
-  background-image: url(../images/9sky.jpg);
+  background-image: url(../images/10sky2.jpg);
   background-size: cover;
   text-align: justify;
+  font-size: 17px;
 }
 header {
   background: #EFE3D8;
@@ -88,7 +89,8 @@ h2 {
 .full img {
   display: block;
   margin:auto;
-  width: 50%;
+  width: 40%;
+  margin-bottom: 15px;
 }
 .gradient {
   position: fixed;
@@ -106,3 +108,8 @@ h2 {
     width: 100%;
   }
 }
+/*
+******* Form *******
+from https://sautdelours.wufoo.com/
+*/
+#form1
