@@ -49,7 +49,7 @@ d'équilibre.**
 <p>Praticienne de "Shiatsu" et de "Santé par le Toucher", je me suis rendue compte, au fil de mon expérience, que le plus gros de notre travail d'aide consistait à décharger l'accumulation des tensions journalières avant de pouvoir atteindre des zones de travail et de compréhension plus subtile de l'être. En effet, les traumatismes inscrits dans notre banque de données, notre héritage familial, ainsi que nos programmations personnelles dues, par exemple, à des souvenirs refoulés, sont plus difficiles à comprendre et à libérer quand ils se noient dans notre brouillard quotidien.</p>
 
 
-> **La clé, vers une action quotidienne.**
+<em><strong>La clé, vers une action quotidienne.</strong></em>
 
 
 <p>Cette évidence, ainsi que le constat du thérapeute d'être toujours limité par cette problématique, m'a poussée à chercher une solution pour diminuer ce brouillard propre à chacun. L'intérêt, à mon sens, était de toucher un grand nombre de personnes, de façon quotidienne, sans passer par mon énergie, afin de ne pas épuiser mes ressources. J'ai donc mis plusieurs années à comprendre comment réaliser cela et à pouvoir proposer un nettoyage énergétique sur photo, satisfaisant et surtout journalier.</p>
@@ -111,8 +111,8 @@ J'ai besoin :
 
 | Durant les 3 premiers mois | Pour une prestation à l'année |
 | --- | --- |
-| Adulte 75€/mois | Enfant (jusqu'à 20 ans) 35€/mois |
-|  1 Adulte 20€/mois | 1 Couple 30€/mois |
+| Adulte 75€/mois | 1 Adulte 20€/mois |
+| Enfant (jusqu'à 20 ans) 35€/mois | 1 Couple 30€/mois |
 | --- | 1 Couple avec enfants 35€/mois |
 | --- | 1 Adulte avec enfants 25€/mois |
 
