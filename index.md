@@ -21,7 +21,8 @@ layout: default
 <div class="right">
   <img src="assets\images\2feuilles.jpg">
 
-<p>Nous ne sommes pas souvent conscients de ces petites empreintes qui tapissent notre bulle énergétique, au quotidien, qui s'accumulent petit à petit, finissent par se compacter les unes aux autres, se cristalliser comme de petits cailloux. Ce sont ces cailloux, d'ailleurs, qui se déposent dans notre sac à dos et deviennent, ainsi, des charges qui peuvent se rendre visible sur le plan physique. En effet, les tensions, les douleurs, les petits dysfonctionnements, mais aussi le manque de bonhomie, d'entrain sont les premiers signes de cet engorgement et donc, de la nécessité de décharger le corps.</p>
+<p>Nous ne sommes pas souvent conscients de ces petites empreintes qui tapissent notre bulle énergétique, au quotidien, qui s'accumulent petit à petit, finissent par se compacter les unes aux autres, se cristalliser comme de petits cailloux. Ce sont ces cailloux, d'ailleurs, qui se déposent dans notre sac à dos et deviennent, ainsi, des charges qui peuvent se rendre
+visible sur le plan physique. En effet, les tensions, les douleurs, les petits dysfonctionnements, mais aussi le manque de bonhomie, d'entrain sont les premiers signes de cet engorgement et donc, de la nécessité de décharger le corps.</p>
 
 </div>
 
@@ -30,10 +31,9 @@ layout: default
 <div class="left">
 <img src="assets\images\3Rue.jpg">
 
-<p>Ces charges ont, en fait, une action directe sur le champ électromagnétique. Elles l'alourdissent d'ions positifs, ce qui créent un déséquilibre par rapport aux ions négatifs. On sait, maintenant, que la surabondance d'ions positifs dans le champ magnétique humain est un facteur d'acidification du corps qui provoquent stress, fatigue et pathologies diverses, à l'encontre des ions négatifs ayant une action plutôt dynamisante et apaisante. (A lire : <em>Terrain acidifié</em> de Jacques Fontaine, édition Jouvence)</p>
+<p>Ces charges ont, en fait, une action directe sur le champ électromagnétique. Elles l'alourdissent d'ions positifs, ce qui crée un déséquilibre par rapport aux ions négatifs. On sait, maintenant, que la surabondance d'ions positifs dans le champ magnétique humain est un facteur d'acidification du corps qui provoque stress, fatigue et pathologies diverses, à l'encontre des ions négatifs ayant une action plutôt dynamisante et apaisante. (A lire : *"Terrain acidifié"* de Jacques Fontaine, édition Jouvence)</p>
 
-<p>Il ne suffit pas d'en avoir conscience pour alléger l'enveloppe et par ricochets notre sac à dos. Une attention quotidienne est nécessaire afin de s'occuper de nous, en touchant le corps par le biais de l'esprit ou bien l'esprit par le biais du corps. Il existe, en effet, multiples portes d'entrée qui conviennent plus ou moins à chacun en fonction de nos aspirations. On peut se tourner vers des pratiques corporelles basées sur le mouvement, le déplacement, la posture, la respiration, le massage par exemple, mais aussi pratiquer la méditation, le chant, la musique, la rigolo-thérapie, etc. Pour ne citer que ces
-exemples.</p>
+<p>Il ne suffit pas d'en avoir conscience pour alléger l'enveloppe et par ricochets notre sac à dos. Une attention quotidienne est nécessaire afin de s'occuper de nous, en touchant le corps par le biais de l'esprit ou bien l'esprit par le biais du corps. Il existe, en effet, multiples portes d'entrée qui conviennent plus ou moins à chacun en fonction de nos aspirations. On peut se tourner vers des pratiques corporelles basées sur le mouvement, le déplacement, la posture, la respiration, le massage par exemple, mais aussi pratiquer la méditation, le chant, la musique, la rigolo-thérapie, etc. Pour ne citer que ces exemples.</p>
 </div>
 
 
@@ -46,7 +46,7 @@ d'équilibre.**
 <div class="right">
 <img src="assets\images\4arbres.jpg">
 
-<p>Praticienne de "Shiatsu" et de "Santé par le Toucher", je me suis rendue compte, au fil de mon expérience, que le plus gros de notre travail d'aide consistait à décharger l'accumulation des tensions journalières avant de pouvoir atteindre des zones de travail et de compréhension plus subtile de l'être. En effet, les traumatismes inscrits dans notre banque de données, notre héritage familial, ainsi que nos programmations personnelles dues, par exemple, à des souvenirs refoulés, sont plus difficiles à comprendre et à libérer quand ils se noient dans notre brouillard quotidien.</p>
+<p>Praticienne de "Shiatsu" et de "Santé par le Toucher", je me suis rendu compte, au fil de mon expérience, que le plus gros de notre travail d'aide consistait à décharger l'accumulation des tensions journalières avant de pouvoir atteindre des zones de travail et de compréhension plus subtile de l'être. En effet, les traumatismes inscrits dans notre banque de données, notre héritage familial, ainsi que nos programmations personnelles dues, par exemple, à des souvenirs refoulés, sont plus difficiles à comprendre et à libérer quand ils se noient dans notre brouillard quotidien.</p>
 
 
 <em><strong>La clé, vers une action quotidienne.</strong></em>
@@ -70,7 +70,7 @@ d'équilibre.**
 <div class="right">
 <img src="assets\images\6cascade.jpg">
 
-<p>Le nettoyage énergétique que je propose aujourd'hui, permet de libérer un certains nombres de charges, dont certaines appartiennent à l'héritage familial. Celui-ci dégage le corps de ces tensions inscrites à notre insu et devenues inutiles dans la compréhension globale de notre histoire. Il contribue, ainsi, à une meilleur clarté d'esprit, en lui donnant la possibilité de prendre du recul sur les évènements, mais aussi l'incite à se positionner différemment, tout en recentrant ses priorités. C'est un temps de respiration, afin de mieux comprendre ce qui nous est donné de vivre.</p>
+<p>Le nettoyage énergétique que je propose aujourd'hui, permet de libérer un certain nombre de charges, dont certaines appartiennent à l'héritage familial. Celui-ci dégage le corps de ces tensions inscrites à notre insu et devenues inutiles dans la compréhension globale de notre histoire. Il contribue, ainsi, à une meilleure clarté d'esprit, en lui donnant la possibilité de prendre du recul sur les évènements, mais aussi l'incite à se positionner différemment, tout en recentrant ses priorités. C'est un temps de respiration, afin de mieux comprendre ce qui nous est donné de vivre.</p>
 
 
 <p>Il est intéressant à faire, par exemple, en complément d'un travail thérapeutique quelle que soit la méthode choisie. Il peut être, aussi, un bon appui pour les personnes en fatigue chronique, en surmenage incessant, qui ne savent plus par quel bout prendre les choses. C'est un bon allié pour des personnes qui travaillent avec du monde, sur des postes à responsabilité ou en représentation. C'est surtout une attention que l'on s'accorde, afin de ne pas se surcharger car, quel que soit notre mode de vie ou notre activité, l'accumulation des petites tensions est le lot de chacun. Cela peut, ainsi, vous permettre de mieux gérer votre quotidien, même si celui-ci est dense.</p>
@@ -82,12 +82,13 @@ d'équilibre.**
 <div class="left">
 <img src="assets\images\7fower.jpg">
 
-<p>C'est le temps nécessaire pour libérer certaines charges relativement anciennes. Car nous sommes un peu à l'image des oignons qui ont besoin d'être peler pour atteindre leur cœur. En énergétique, nous fonctionnons par couche et c'est en nettoyant certaines couches que nous pouvons en atteindre d'autres.</p>
+<p>C'est le temps nécessaire pour libérer certaines charges relativement anciennes. Car nous sommes un peu à l'image des oignons qui ont besoin d'être pelés pour atteindre leur cœur. En énergétique, nous fonctionnons par couche et c'est en nettoyant certaines couches que nous pouvons en atteindre d'autres.</p>
 
-<p>En plus de ce nettoyage journalier, je propose un protocole d'accompagnement avec des conseils pour travailler sur la vitalité. Celui-ci permettra au corps de mieux gérer les changements inhérents au processus de dégagement. En effet, quand un travail s'effectue sur l'enveloppe énergétique, il n'est pas rare d'avoir des fatigues de fin de journée.</p>
+<p>En plus de ce nettoyage journalier, je propose un protocole d'accompagnement avec des conseils pour travailler sur la vitalité. Ce protocole permettra au corps de mieux gérer les changements inhérents au processus de dégagement. En effet, quand un travail s'effectue sur l'enveloppe énergétique, il n'est pas rare d'avoir des fatigues de fin de journée.</p>
 
 
-<p>Durant ces trois mois, je vous demanderai aussi un retour écrit, afin d'avoir une image plus précise de ce qui se dessine pour vous. Ce retour n'a pas besoin d'être étoffé, une dizaine de phrases peuvent suffire mais, à mon sens, cette démarche est importante, car elle donne le recul nécessaire pour réaliser ce qui est en train de s'inscrire dans votre réalité. Cette étape n'est pas obligatoire, mais elle est recommandée.</p>
+<p>Durant ces trois mois, je vous demanderai aussi un retour écrit, afin d'avoir une image plus précise de ce qui se dessine pour vous. Ce retour n'a pas besoin d'être étoffé, une dizaine de phrases peuvent suffire mais, à mon sens, cette démarche est importante, car
+elle donne le recul nécessaire pour réaliser ce qui est en train de s'inscrire dans votre réalité. Cette étape n'est pas obligatoire, mais elle est recommandée.</p>
 </div>
 
 
@@ -124,4 +125,4 @@ J'ai besoin :
 
  <p class="contac">Ana Loube : <a href="mailto:lesautde.lours@laposte.net" target="_blank" rel="noopener">lesautde.lours@laposte.net</a></p>
 
- **Prenez contact par e-mail** *afin de me faire parvenir votre demande, en précisant succinctement vos raisons et vos interrogations. Cela me permettra de vous donnez des informations complémentaires, de répondre à vos questions, ainsi que de vous proposer un rendez-vous téléphonique si vous le souhaitez.*
+ **Prenez contact par e-mail** *afin de me faire parvenir votre demande, en précisant succinctement vos raisons et vos interrogations. Cela me permettra de vous donner des informations complémentaires, de répondre à vos questions, ainsi que de vous proposer un rendez-vous téléphonique si vous le souhaitez.*
