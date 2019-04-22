@@ -37,15 +37,18 @@ header p {
 }
 nav {
   font-family: 'Lato', sans-serif;
-  
+
   left: 0;
   margin-left: 0;
 }
 nav ul li.tag-h1 a {
-  color: #fff;
+  color: #3161B3;
+  background-color: #EFE3D8;
 }
 nav ul a {
-  color: #f2ddc9;
+  color: #3161B3;
+  background-color: #EFE3D8;
+  font-weight: bold;
 }
 section {
   box-shadow: none;

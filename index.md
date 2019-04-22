@@ -117,12 +117,12 @@ J'ai besoin :
 | --- | 1 Couple avec enfants 35€/mois |
 | --- | 1 Adulte avec enfants 25€/mois |
 
-> **Réglement par chèque**
-
+> **Réglement par chèque ou Paypal**
 
 ## Contact
 
 
  <p class="contac">Ana Loube : <a href="mailto:lesautde.lours@laposte.net" target="_blank" rel="noopener">lesautde.lours@laposte.net</a></p>
+ <p class="contact">Tel : <a href="tel:+33628073442">+33 (0)6 28 07 34 42</a></p>
 
  **Prenez contact par e-mail** *afin de me faire parvenir votre demande, en précisant succinctement vos raisons et vos interrogations. Cela me permettra de vous donner des informations complémentaires, de répondre à vos questions, ainsi que de vous proposer un rendez-vous téléphonique si vous le souhaitez.*
