@@ -3,3 +3,5 @@ description: Retrouvez le sourire :)
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
+gems:
+    - jekyll-seo-tag
